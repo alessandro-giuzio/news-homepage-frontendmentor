@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/alessandro-giuzio/news-homepage-frontendmentor)
-- Live Site URL: [Add live site URL here](https://news-frontendmentor.netlify.app/#)
+- Solution URL: [My solution repo](https://github.com/alessandro-giuzio/news-homepage-frontendmentor)
+- Live Site URL: [Web Site Live](https://news-frontendmentor.netlify.app/#)
 
 ### Built with
 
