@@ -243,12 +243,6 @@ nav {
   }
 }
 
-/* @media (min-width: 375px) {
-  .hamburger .toggle-open {
-    display: none;
-  }
-} */
-
 nav ul {
   margin: 0;
   padding: 0;
