@@ -242,6 +242,21 @@ nav {
   }
 }
 
+@media (min-width: 375px) {
+  .nav-toggle {
+    display: none;
+  }
+  .nav-toggle-close {
+    display: none;
+  }
+  .toggle-open {
+    display: none;
+  }
+  .toggle-close {
+    display: none;
+  }
+}
+
 nav ul {
   margin: 0;
   padding: 0;
